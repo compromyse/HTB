@@ -1,0 +1,7 @@
+/admin               [33m (Status: 401)[0m [Size: 97]
+/logout              [37m (Status: 204)[0m [Size: 0]
+/login               [32m (Status: 200)[0m [Size: 4431]
+/error               [31m (Status: 500)[0m [Size: 73]
+/index               [32m (Status: 200)[0m [Size: 12706]
+/plain]              [33m (Status: 400)[0m [Size: 435]
+/[                   [33m (Status: 400)[0m [Size: 435]
